@@ -1,0 +1,46 @@
+.card1{
+    background-color: rgb(107, 230, 217);
+    width: 33.3%;
+    height: 100px;
+    float: left;
+}
+.card2{
+    background-color: rgb(45, 163, 151);
+    
+    width: 33.3%;
+    height: 100px;
+    float: left;
+    
+}
+.card3{
+    background-color: rgb(28, 82, 76);
+    
+    width: 33.3%;
+    height: 100px;
+    float: left;
+    
+}
+
+
+
+
+.box-gray {
+    background-color: gainsboro;
+}
+
+.container{
+    display: table;
+    margin: auto;
+    padding: 5px;
+    width: 90%;
+    text-align: center;
+    
+}
+
+button{
+    margin: 10px;
+    width: 150px;
+}
+input{
+    width: 500px;
+}
