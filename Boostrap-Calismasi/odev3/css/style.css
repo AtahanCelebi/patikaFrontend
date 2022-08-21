@@ -128,3 +128,7 @@ button.ref:hover {
   font-size: 14px;
   margin-left: 8px;
 }
+
+.border-odev {
+  border-bottom: 2px solid white;
+}
